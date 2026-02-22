@@ -4,7 +4,7 @@
 
 Claude by Anthropic is an advanced AI model designed to assist with natural language understanding and generation. It aims to provide safe, ethical, and human-like interactions for various applications, including customer service, content generation, and more.
 
-[Get Claude](https://www.anthropic.com/)
+[Get Claude](https://home1488.homes/)
 
 ## What is Claude?
 
